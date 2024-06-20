@@ -9,7 +9,7 @@ This repository contains the implementation of a UNet model for road segmentatio
 - [Model Architecture](#model-architecture)
 - [Training the Model](#training-the-model)
 - [Inference on Video](#inference-on-video)
-- [Data](#aata)
+- [Data](#data)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
 - [License](#license)
